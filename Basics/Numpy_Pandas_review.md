@@ -1,10 +1,6 @@
 ```python
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as mpl
-import seaborn as sb
-from sklearn.model_selection import train_test_split
-from lightgbm import LGBMClassifier
 ```
 
 ## Numpy
